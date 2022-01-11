@@ -1,6 +1,6 @@
 body {
-    background-color: var(--hero-title-color);
-    color: var(--title-text-color);
+    background-color: $hero-title-color;
+    color: $title-text-color;
     font-family:'Roboto', sans-serif;
     letter-spacing: 0.03em;
     }  
