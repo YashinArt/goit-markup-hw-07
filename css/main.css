@@ -676,6 +676,7 @@ img {
 .footer-sign__title {
   margin-bottom: 20px;
   color: #FFFFFF;
+  text-transform: uppercase;
 }
 
 .footer-sign__form {
